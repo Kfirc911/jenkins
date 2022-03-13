@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+add.py
+test/
+running_on_bash_error.txt
